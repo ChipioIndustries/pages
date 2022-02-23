@@ -11,7 +11,7 @@ Pages can be installed using Wally, an open-source package manager for Roblox.
 * Add this line to your `wally.toml` file under `[dependencies]`:
 
 	```toml
-	Pages = "chipioindustries/pages@0.1.0"
+	Pages = "chipioindustries/pages@1.0.0"
 	```
 
 * Then run `wally install` to install the package.

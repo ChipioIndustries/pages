@@ -11,7 +11,7 @@ Pages is a template for creating Roblox package repositories.
 * Add this line to your `wally.toml` file under `[dependencies]`:
 
 	```toml
-	Pages = "chipioindustries/pages@0.1.0"
+	Pages = "chipioindustries/pages@1.0.0"
 	```
 
 * Then run `wally install` to install the package.

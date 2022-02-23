@@ -1,7 +1,7 @@
 [package]
 name = "chipioindustries/pages"
 description = "An object that behaves identically to the Pages instance."
-version = "0.1.0"
+version = "1.0.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
