@@ -4,7 +4,7 @@
 
 # Pages
 
-Pages is a template for creating Roblox package repositories.
+An object that behaves identically to the Pages instance.
 
 ## Installing with Wally
 
